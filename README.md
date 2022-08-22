@@ -8,4 +8,4 @@ This is the link to my application, file:///C:/Users/jmart/Desktop/Coding_Challe
 
 This is the link to my Github repository that contains my code, https://github.com/JLeon1393/Jonathans-HTML-Git-CSS-Challenge
 
-<img>screencapture-file-C-Users-jmart-Desktop-Coding-Challenges-Jonathans-HTML-Git-CSS-Challenge-index-html-2022-08-22-01_49_23.png<img/>
+![screencapture-file-C-Users-jmart-Desktop-Coding-Challenges-Jonathans-HTML-Git-CSS-Challenge-index-html-2022-08-22-01_49_23](https://user-images.githubusercontent.com/111095820/186029725-2d05ed6d-25a8-4faf-bcfa-8bff1412458b.png)
