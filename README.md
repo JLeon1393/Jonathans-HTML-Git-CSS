@@ -7,5 +7,3 @@ I've also cleaned up the starter code a little so that the semantic structure is
 This is the link to my application, file:///C:/Users/jmart/Desktop/Coding_Challenges/Jonathans-HTML-Git-CSS-Challenge/index.html 
 
 This is the link to my Github repository that contains my code, https://github.com/JLeon1393/Jonathans-HTML-Git-CSS-Challenge
-
-GGGG
